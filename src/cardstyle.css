@@ -1,0 +1,30 @@
+.card {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 110%;
+  color: #222222;
+  width: 200px;
+  position: relative;
+}
+.grey {
+  color: #918e9b;
+}
+p > img {
+  width: 20px;
+}
+.card > .titleimg {
+  width: 200px;
+  border-radius: 10px;
+  height: 275px;
+}
+.card > .badge {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: white;
+  padding: 5px 7px;
+  border-radius: 2px;
+  font-weight: bold;
+}

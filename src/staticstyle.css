@@ -1,0 +1,30 @@
+.group {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.group > img {
+  align-self: center;
+  max-width: 800px;
+}
+.heading {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 90px;
+  line-height: 110%;
+  color: black;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.content {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 25px;
+  line-height: 110%;
+  color: #222222;
+  margin-top: 10px;
+  width: 520px;
+  padding-bottom: 40px;
+}
